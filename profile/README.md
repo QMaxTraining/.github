@@ -1,4 +1,4 @@
-<img src="./../assets/qmaxtraining_logo_rendered_cropped.png" ></img>
+<img src="./../assets/qmaxtraining_logo_rendered_cropped.png"></img>
 
 ## Hi there 👋
 
